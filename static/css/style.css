@@ -1,0 +1,12 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+
+#mainApp{
+	padding: 10;
+}
+
+.companyBackground{
+	background:#f00;
+}
